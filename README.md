@@ -4,4 +4,4 @@
 [https://blog.vicc.jp/entry/ghdef-review-2](https://blog.vicc.jp/entry/ghdef-review-2)  
 
 
-![230414_fillet_sample.png](fillet_sample_model.3dm)  
+![230414_fillet_sample.png](230414_fillet_sample.png)  
